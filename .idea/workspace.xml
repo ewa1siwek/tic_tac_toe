@@ -29,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="187">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -159,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533196871054</updated>
-      <workItem from="1533196872453" duration="5503000" />
+      <workItem from="1533196872453" duration="7965000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1533199858672</created>
@@ -210,11 +210,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533216162875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Display current state’s value on click">
+      <created>1533216433742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1533216433742</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the array contains null to the Board">
+      <created>1533217332095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1533217332095</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5503000" />
+    <option name="totallyTimeSpent" value="7965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="773" y="0" width="759" height="882" extended-state="0" />
@@ -279,7 +293,9 @@
     <MESSAGE value="Added alert on click" />
     <MESSAGE value="Refactoring into arrow function" />
     <MESSAGE value="Added constructor to class to initialize the state" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added constructor to class to initialize the state" />
+    <MESSAGE value="Display current state’s value on click" />
+    <MESSAGE value="Added the array contains null to the Board" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the array contains null to the Board" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
@@ -298,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
