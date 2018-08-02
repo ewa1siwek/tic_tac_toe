@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec6150b-fe73-4a96-9ea7-13c743929d33" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="221">
+              <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -158,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533196871054</updated>
-      <workItem from="1533196872453" duration="9690000" />
+      <workItem from="1533196872453" duration="10545000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1533199858672</created>
@@ -244,11 +245,32 @@
       <option name="project" value="LOCAL" />
       <updated>1533220637044</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Display 'O'">
+      <created>1533220894052</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1533220894052</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Display second player">
+      <created>1533221078896</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1533221078896</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Display winner">
+      <created>1533221462380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1533221462380</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9690000" />
+    <option name="totallyTimeSpent" value="10545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="773" y="0" width="759" height="882" extended-state="0" />
@@ -318,7 +340,10 @@
     <MESSAGE value="Passing down props value and onClick from Board to Square" />
     <MESSAGE value="Added handleClick to the Board class" />
     <MESSAGE value="Replaced square class with function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced square class with function" />
+    <MESSAGE value="Display 'O'" />
+    <MESSAGE value="Display second player" />
+    <MESSAGE value="Display winner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Display winner" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
@@ -337,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="221">
+          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
