@@ -29,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="170">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -159,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533196871054</updated>
-      <workItem from="1533196872453" duration="4852000" />
+      <workItem from="1533196872453" duration="5503000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1533199858672</created>
@@ -196,11 +196,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533215589308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactoring into arrow function">
+      <created>1533215738128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533215738128</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added constructor to class to initialize the state">
+      <created>1533216162875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533216162875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4852000" />
+    <option name="totallyTimeSpent" value="5503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="773" y="0" width="759" height="882" extended-state="0" />
@@ -263,7 +277,9 @@
     <MESSAGE value="Added value to Square" />
     <MESSAGE value="Display value" />
     <MESSAGE value="Added alert on click" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added alert on click" />
+    <MESSAGE value="Refactoring into arrow function" />
+    <MESSAGE value="Added constructor to class to initialize the state" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added constructor to class to initialize the state" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
@@ -282,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="170">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
