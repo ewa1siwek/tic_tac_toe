@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec6150b-fe73-4a96-9ea7-13c743929d33" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -159,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533196871054</updated>
-      <workItem from="1533196872453" duration="4339000" />
+      <workItem from="1533196872453" duration="4852000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1533199858672</created>
@@ -175,14 +175,35 @@
       <option name="project" value="LOCAL" />
       <updated>1533200071638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added value to Square">
+      <created>1533215188330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533215188330</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Display value">
+      <created>1533215367156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533215367156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added alert on click">
+      <created>1533215589308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533215589308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4339000" />
+    <option name="totallyTimeSpent" value="4852000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="724" y="0" width="808" height="882" extended-state="0" />
+    <frame x="773" y="0" width="759" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.49027237" />
@@ -239,7 +260,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Create react app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create react app" />
+    <MESSAGE value="Added value to Square" />
+    <MESSAGE value="Display value" />
+    <MESSAGE value="Added alert on click" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added alert on click" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
@@ -258,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
