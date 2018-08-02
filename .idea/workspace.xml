@@ -29,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+            <state relative-caret-position="361">
+              <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -86,7 +86,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="966" />
-    <option name="width" value="949" />
+    <option name="width" value="957" />
     <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533196871054</updated>
-      <workItem from="1533196872453" duration="11970000" />
+      <workItem from="1533196872453" duration="12894000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1533199858672</created>
@@ -280,14 +280,28 @@
       <option name="project" value="LOCAL" />
       <updated>1533222763617</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Create history button">
+      <created>1533223188318</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1533223188318</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added next step history buttons">
+      <created>1533223967456</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1533223967456</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11970000" />
+    <option name="totallyTimeSpent" value="12894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="773" y="0" width="759" height="882" extended-state="0" />
+    <frame x="773" y="0" width="765" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.49027237" />
@@ -359,7 +373,9 @@
     <MESSAGE value="Display winner" />
     <MESSAGE value="Added constructor for history feature" />
     <MESSAGE value="Added history feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added history feature" />
+    <MESSAGE value="Create history button" />
+    <MESSAGE value="Added next step history buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added next step history buttons" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
@@ -378,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        <state relative-caret-position="361">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
